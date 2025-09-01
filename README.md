@@ -26,6 +26,6 @@ This calculator can perform basic arithmetic operations like addition, subtracti
 
 ## 📸 Screenshot  
 
-![Basic Calculator Screenshot](./screenshot.png)   
+![Basic Calculator Screenshot](BasicCalculator/Screenshot.png)   
 
 ---
